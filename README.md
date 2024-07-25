@@ -1,7 +1,5 @@
 # FINAL-PROJECT-PBD
 
-**PBD**
-
 Database Final Project Pemrograman Basis Data
 
 ## Dibuat Oleh:
